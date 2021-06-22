@@ -1,2 +1,2 @@
 # UltimateWordGameHelper
-A helper for use in a variety of word games. You can specify a constraint string and words that abide by those constraints are generated.
+A program that allows the user to specify a constraint string. The program generates words that abide by the specified constraints.
