@@ -5,7 +5,7 @@ A program that allows the user to specify a constraint string. The program gener
 
 ### Constant Constraints:
 - Words consist of only lowercase characters from a to z.
-- The only words are those in english_wordlist.txt.
+- The only words are those in english_wordlist.txt, which does not include proper nouns or words with apostrophes.
 
 ### Specifiable Constraints:
 - Specifying any lowercase character from a to z specifies that the letter at that position must be the given letter.
